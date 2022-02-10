@@ -7,7 +7,7 @@
   <version>0.0.1</version>
   <name>learn-and-go-bcd</name>
   <properties>
-    <bonita.runtime.version>7.13.1</bonita.runtime.version>
+    <bonita.runtime.version>7.13.3</bonita.runtime.version>
     <maven-install-plugin.version>3.0.0-M1</maven-install-plugin.version>
     <maven.compiler.target>11</maven.compiler.target>
     <maven.compiler.source>11</maven.compiler.source>
